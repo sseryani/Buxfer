@@ -1,0 +1,13 @@
+add_group instructors
+add_group friends
+add_user instructors pancer 
+add_user friends david3 
+add_user instructors nizam
+add_xct instructors pancer 65
+add_xct friends david3 15.08
+add_xct instructors nizam 117.95
+add_xct instructors pancer 220.95
+add_xct friends david3 54.10
+remove_user instructors pancer
+quit
+
